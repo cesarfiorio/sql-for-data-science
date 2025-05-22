@@ -17,4 +17,19 @@ This repository contains my progress and personal notes from the **"SQL for Data
 
 ## 📂 Folder Structure
 
+## 💡 Goals
+
+- Build strong foundational SQL skills for data analysis.
+- Apply SQL in real-world scenarios involving large datasets.
+- Document my learning journey publicly and build a data portfolio.
+
+## 🚀 Status
+
+✔️ In Progress – Started on May 22, 2025  
+📘 Course Link: [Coursera – SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)
+
+## 📌 Author
+
+**Cesar Fiorio**  
+GitHub: [@cesarfiorio](https://github.com/cesarfiorio)
 
